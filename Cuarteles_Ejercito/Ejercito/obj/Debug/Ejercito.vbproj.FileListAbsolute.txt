@@ -1,0 +1,18 @@
+C:\Users\EFLS\Desktop\Ejercicios\Cuarteles Ejercito\Ejercito\bin\Ejercito.dll.config
+C:\Users\EFLS\Desktop\Ejercicios\Cuarteles Ejercito\Ejercito\bin\Ejercito.dll
+C:\Users\EFLS\Desktop\Ejercicios\Cuarteles Ejercito\Ejercito\bin\Ejercito.pdb
+C:\Users\EFLS\Desktop\Ejercicios\Cuarteles Ejercito\Ejercito\bin\Ejercito.xml
+C:\Users\EFLS\Desktop\Ejercicios\Cuarteles Ejercito\Ejercito\obj\Debug\Ejercito.Resources.resources
+C:\Users\EFLS\Desktop\Ejercicios\Cuarteles Ejercito\Ejercito\obj\Debug\Ejercito.vbproj.GenerateResource.Cache
+C:\Users\EFLS\Desktop\Ejercicios\Cuarteles Ejercito\Ejercito\obj\Debug\Ejercito.dll
+C:\Users\EFLS\Desktop\Ejercicios\Cuarteles Ejercito\Ejercito\obj\Debug\Ejercito.xml
+C:\Users\EFLS\Desktop\Ejercicios\Cuarteles Ejercito\Ejercito\obj\Debug\Ejercito.pdb
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°17\Cuarteles_Ejercito\Ejercito\bin\Ejercito.dll.config
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°17\Cuarteles_Ejercito\Ejercito\bin\Ejercito.dll
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°17\Cuarteles_Ejercito\Ejercito\bin\Ejercito.pdb
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°17\Cuarteles_Ejercito\Ejercito\bin\Ejercito.xml
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°17\Cuarteles_Ejercito\Ejercito\obj\Debug\Ejercito.Resources.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°17\Cuarteles_Ejercito\Ejercito\obj\Debug\Ejercito.vbproj.GenerateResource.Cache
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°17\Cuarteles_Ejercito\Ejercito\obj\Debug\Ejercito.dll
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°17\Cuarteles_Ejercito\Ejercito\obj\Debug\Ejercito.xml
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°17\Cuarteles_Ejercito\Ejercito\obj\Debug\Ejercito.pdb

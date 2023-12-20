@@ -1,0 +1,94 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Index.master.vb" Inherits="Ejercito.Index" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <link rel="shourtcut icon" type="image/x-icon" href="Paginas/Escudo.jpg">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 192px;
+        }
+    </style>
+</head>
+    <header>
+        <h1 id="Title"><center>Ejercito Nacional De COLOMBIA</center></h1>
+        <nav id="navegacion">
+			<nav>
+		<ul class="nav">
+		<li><a href="Soldado.aspx">Soldado</a>
+			
+			
+		</li>
+		<li><a href="Servicio_web.aspx">Servicio</a>
+			
+		</li>
+		<li><a href="Compañia_web.aspx">Compañia</a>
+		 	
+
+		</li>
+		<li><a href="Cuartel.aspx">Cuartel</a>
+			</li> 
+	
+		<li><a href="Cuerpo_web.aspx">Cuerpo</a>
+			
+		</li>
+	</ul>
+	
+			</nav>
+		</nav>
+
+    </header>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        
+        <table class="auto-style1">
+            <tr>
+                <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CUARTELES EJERCITO&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style2">&nbsp;</td>
+                <td rowspan="6">
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style2">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style2">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style2">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style2">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style2">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style2">&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+        </table>
+        
+    </div>
+    </form>
+    <footer>
+       <h4> <center> Realizado por: EDISSON FABIAN LARGO SIERRA © </center></h4>
+    </footer>
+</body>
+    
+</html>

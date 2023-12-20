@@ -1,0 +1,108 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Index.master.vb" Inherits="Facultad.Index" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="stylesheet" type="text/css" href="Estilo.css">
+    <title> Facultad</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 253px;
+        }
+        .auto-style3 {
+            height: 23px;
+        }
+        .nuevoEstilo1 {
+            font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+            font-size: 30px;
+            font-weight: bold;
+            font-style: italic;
+            font-variant: normal;
+            color: #546345;
+        }
+    </style>
+</head>
+    <header>
+        <h1 id="Title"><center>UNIVERSIDAD PEDAGÒGICA Y TECNOLOGICA DE COLOMBIA</center>
+        		<img id="imagen1" src="log.jpg"></h1>
+        		&nbsp;<nav id="navegacion">
+			<nav>
+		<ul class="nav">
+		<li><a href="">ROLES</a>
+			<ul>
+			<li><a href="Profesor_web.aspx">Profesor</a></li>
+			<li><a href="USuario_web.aspx">Estudiante</a></li>
+			</ul>
+			
+		</li>
+		<li><a href="Examen_web.aspx">Examen Escrito</a>
+			
+		</li>
+		<li><a href="Practica.aspx">Practica</a>
+		 	
+
+		</li>
+		<li><a href="Historial_web.aspx">Historial</a>
+			
+	
+	</ul>
+	
+			</nav>
+		</nav>
+
+    </header>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        
+        <table class="auto-style1">
+            <tr>
+                <td colspan="2">&nbsp;</td>
+            </tr>
+            <tr>
+                <td colspan="2">&nbsp;</td>
+            </tr>
+            <tr>
+                <td colspan="2">&nbsp;</td>
+            </tr>
+            <tr>
+                <td colspan="2">&nbsp;</td>
+            </tr>
+            <tr>
+                <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="nuevoEstilo1">&nbsp;&nbsp; FACULTAD DE INGENIERIA&nbsp;</span></td>
+            </tr>
+            <tr>
+                <td colspan="2" class="auto-style3"></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" rowspan="2">&nbsp;</td>
+                <td>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style2">&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+        </table>
+        
+    </div>
+    </form>
+    <footer>
+       <h4> <center> Realizado por: EDISSON FABIAN LARGO SIERRA © </center></h4>
+    </footer>
+</body>
+    
+</html>

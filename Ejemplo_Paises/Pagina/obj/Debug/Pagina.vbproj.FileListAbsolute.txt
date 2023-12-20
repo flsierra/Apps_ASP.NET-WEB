@@ -1,0 +1,9 @@
+C:\Users\EFLS\Desktop\Visual Page\Pagina\Pagina\bin\Pagina.dll.config
+C:\Users\EFLS\Desktop\Visual Page\Pagina\Pagina\bin\Pagina.dll
+C:\Users\EFLS\Desktop\Visual Page\Pagina\Pagina\bin\Pagina.pdb
+C:\Users\EFLS\Desktop\Visual Page\Pagina\Pagina\bin\Pagina.xml
+C:\Users\EFLS\Desktop\Visual Page\Pagina\Pagina\obj\Debug\Pagina.Resources.resources
+C:\Users\EFLS\Desktop\Visual Page\Pagina\Pagina\obj\Debug\Pagina.vbproj.GenerateResource.Cache
+C:\Users\EFLS\Desktop\Visual Page\Pagina\Pagina\obj\Debug\Pagina.dll
+C:\Users\EFLS\Desktop\Visual Page\Pagina\Pagina\obj\Debug\Pagina.xml
+C:\Users\EFLS\Desktop\Visual Page\Pagina\Pagina\obj\Debug\Pagina.pdb
